@@ -2,7 +2,7 @@
 
 ## Coco Periph Demo for Cold Spring Harbor Course Summer 2024  
 
-This is a Demo of using COCO-Periph [https://openreview.net/pdf?id=MiRPBbQNHv][https://openreview.net/pdf?id=MiRPBbQNHv] images to create pseudo-foveated images, and a subset of COCO-Periph that has fixation data from the COCO-Search 18 dataset. [https://saliency.tuebingen.ai/datasets/COCO-Search18/](https://saliency.tuebingen.ai/datasets/COCO-Search18/)  
+This is a Demo of using COCO-Periph [https://openreview.net/pdf?id=MiRPBbQNHv](https://openreview.net/pdf?id=MiRPBbQNHv) images to create pseudo-foveated images, and a subset of COCO-Periph that has fixation data from the COCO-Search 18 dataset. [https://saliency.tuebingen.ai/datasets/COCO-Search18/](https://saliency.tuebingen.ai/datasets/COCO-Search18/)  
 
 ## Project Summary
 
